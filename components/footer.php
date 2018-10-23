@@ -30,7 +30,7 @@
             <h5>BookMyMovie</h5>
             <ul class="list-unstyled">
               <li><a href="#">Support</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="contact.php">Contact</a></li>
               <li><a href="#loginModal" data-toggle="modal" data-target="#loginModal">Sign In</a></li>
             </ul>
           </div>

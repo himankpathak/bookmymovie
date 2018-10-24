@@ -56,3 +56,7 @@ body {
 .spacer {
   padding: 50px;
 }
+.poster {
+  width: 350px;
+  height: 415px;
+}

@@ -3,7 +3,7 @@
 	<head>
 		<?php include 'components/header.php';?>
 
-		<title>BookMyMovie | English Movies</title>
+		<title>BookMyMovie | Hollywood Movies</title>
 	</head>
 	<body>
 		<?php include 'components/navbar.php';?>
@@ -12,13 +12,12 @@
 
 			<div class="row">
 	      <div class="col-lg-12">
-	        <h1 class="page-header">English Movies
+	        <h1 class="page-header">Hollywood Movies
 	          <small>Now Showing</small>
 	        </h1>
 	        <ol class="breadcrumb">
-	          <li><a href="index.php">Home</a>
-	          </li>
-	          <li class="active">English Movies</li>
+	          <li><a href="index.php">Home</a></li>
+	          <li class="active">Hollywood Movies</li>
 	        </ol>
 	      </div>
 	    </div>
@@ -27,7 +26,7 @@
 	    <div class="row">
 	      <div class="col-md-7">
 	        <a href="moviedetail.php?MovieName=Inferno">
-	          <img class="img-responsive img-hover" src="php/displayPoster.php?MovieName=Inferno" alt="Inferno" style="width:450x;height:415px">
+	          <img class="img-responsive img-hover poster" src="php/displayPoster.php?MovieName=Inferno" alt="Inferno">
 	        </a>
 	      </div>
 	      <div class="col-md-5">
@@ -48,7 +47,7 @@
 	    <div class="row">
 	      <div class="col-md-7">
 	        <a href="moviedetail.php?MovieName=Doctor Strange">
-	          <img class="img-responsive img-hover" src="php/displayPoster.php?MovieName=Doctor Strange" alt="Doctor Strange" style="width:450x;height:415px">
+	          <img class="img-responsive img-hover poster" src="php/displayPoster.php?MovieName=Doctor Strange" alt="Doctor Strange">
 	        </a>
 	      </div>
 	      <div class="col-md-5">

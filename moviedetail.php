@@ -3,7 +3,7 @@
 	<head>
 		<?php include 'components/header.php';?>
 
-		<title>BookMyMovie | </title>
+		<title>BookMyMovie | Movie ShowTime Details</title>
 	</head>
 	<body>
 		<?php include 'components/navbar.php';?>

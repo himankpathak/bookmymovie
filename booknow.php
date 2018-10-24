@@ -4,7 +4,7 @@
 		<?php include 'components/header.php';?>
 		<link href="css/booknow.css" rel="stylesheet">
 
-		<title>BookMyMovie | </title>
+		<title>BookMyMovie | Ticket Booking</title>
 	</head>
 	<body>
 		<?php include 'components/navbar.php';?>

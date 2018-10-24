@@ -22,8 +22,8 @@
           <div class="col-sm-4 col-xs-6">
             <h5>Movies</h5>
             <ul class="list-unstyled">
-              <li><a href="#">Hindi</a></li>
-              <li><a href="#">English</a></li>
+              <li><a href="mov-hindi.php">Hindi</a></li>
+              <li><a href="mov-english.php">English</a></li>
             </ul>
           </div>
           <div class="col-sm-4 col-sm-6">
@@ -43,7 +43,7 @@
             </div>
           </div>
           <div class="col-xs-12">
-            <p style="padding:30px;"></p>
+            <p style="padding:20px;"></p>
             <p align=center>Copyright © 2018 BookMyMovie</p>
           </div>
         </div>

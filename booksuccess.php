@@ -3,7 +3,7 @@
 	<head>
 		<?php include 'components/header.php';?>
 
-		<title>BookMyMovie | BoilerPlate</title>
+		<title>BookMyMovie | Booking Successful</title>
 	</head>
 	<body>
 		<?php include 'components/navbar.php';?>

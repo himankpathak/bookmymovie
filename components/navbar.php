@@ -16,10 +16,10 @@
         <div class="collapse navbar-collapse" id="navbar-collapse-1">
           <ul class="nav navbar-nav" id="left-nav">
             <li>
-              <a href="#">HINDI</a>
+              <a href="mov-hindi.php">HINDI</a>
             </li>
             <li>
-              <a href="#">ENGLISH</a>
+              <a href="mov-english.php">ENGLISH</a>
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">

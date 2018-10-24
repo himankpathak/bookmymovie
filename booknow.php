@@ -29,7 +29,7 @@
 			<!-- BookMovie Form -->
 			<div class="row">
 				<div class="col-md-8">
-					<form name="bookingForm" id="bookingForm" action="success.php" method="POST" novalidate>
+					<form name="bookingForm" id="bookingForm" action="booksuccess.php" method="POST" novalidate>
 						<div class="control-group form-group">
 							<div class="controls">
 								<label>Choose your Show Timings:</label>

@@ -42,7 +42,7 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-user" aria-hidden="true"></span>&nbsp;&nbsp;YOU&nbsp;&nbsp;<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="#"><span class="fa fa-cog" aria-hidden="true"></span>&nbsp;&nbsp;Profile</a></li>
-              <li><a href="#p"><span class="fa fa-sign-out" aria-hidden="true"></span>&nbsp;&nbsp;Sign Out</a></li>
+              <li><a href="php/logout.php"><span class="fa fa-sign-out" aria-hidden="true"></span>&nbsp;&nbsp;Sign Out</a></li>
             </ul>
           </li>
         ';
@@ -93,7 +93,7 @@
 
           <br>
           <p class="center-align bold text-muted">Still not connected?
-            <a href="#" class="text-danger">Sign up</a> here!
+            <a href="signup.php" class="text-danger">Sign up</a> here!
           </p>
         </div>
       </div>

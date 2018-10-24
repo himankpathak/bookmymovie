@@ -8,7 +8,7 @@
 	<body>
 		<?php include 'components/navbar.php';?>
 
-		<div class="container-fluid">
+		<div class="container">
 
 			<!-- Page Heading -->
 			<div class="row">
@@ -70,7 +70,7 @@
 		</div>
 
 	  <div>
-	    <p style="padding:50px;"></p>
+	    <p class="spacer"></p>
 	  </div>
 
 		<?php include 'components/footer.php';?>

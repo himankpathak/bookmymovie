@@ -38,7 +38,7 @@
 						</div>
 						<div class="control-group form-group">
 							<div class="controls">
-								<label class="radio-inline"><input type="radio" id="radio" name="gender" required data-validation-required-message="Please enter your sex." value="female">Female</label>
+								<label class="radio-inline"><input type="radio" id="radio" name="gender" required data-validation-required-message="Please enter your gender." value="female">Female</label>
 								<label class="radio-inline"><input type="radio" name="gender" value="male">Male</label>
 							</div>
 						</div>
@@ -74,5 +74,7 @@
 	  </div>
 
 		<?php include 'components/footer.php';?>
+		<script src="js/jqBootstrapValidation.js"></script>
+		<script src="js/signup.js"></script>
 	</body>
 </html>

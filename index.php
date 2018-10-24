@@ -19,19 +19,19 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner">
 				<div class="item active">
-					<div class="fill" style="background-image:url('img/cs-fbawtft.jpg');"></div>
+					<div class="fill" style="background-image:url('img/post-strange.jpg');"></div>
 					<div class="carousel-caption">
 						<h2>Book tickets in a few clicks</h2>
 					</div>
 				</div>
 				<div class="item">
-					<div class="fill" style="background-image:url('img/cs-adhm.jpg');"></div>
+					<div class="fill" style="background-image:url('img/post-parmanu.jpg');"></div>
 					<div class="carousel-caption">
 						<h2>Get movie ratings</h2>
 					</div>
 				</div>
 				<div class="item">
-					<div class="fill" style="background-image:url('img/cs-strange.png');"></div>
+					<div class="fill" style="background-image:url('img/post-dunkirk.png');"></div>
 					<div class="carousel-caption">
 						<h2>Read the latest reviews</h2>
 					</div>

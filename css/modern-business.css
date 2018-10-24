@@ -36,10 +36,10 @@ header.carousel .carousel-inner {
 }
 
 header.carousel .fill {
-    width: 100%;
+    width: auto;
     height: 100%;
     background-position: center;
-    background-size: cover;
+    background-size: 70% 100%;
 }
 
 /* 404 Page Styles */

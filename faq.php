@@ -118,6 +118,7 @@
         <!-- /.panel-group -->
       </div>
       <!-- /.col-lg-12 -->
+
 		</div>
 
 	  <div>

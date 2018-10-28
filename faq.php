@@ -36,8 +36,8 @@
             </div>
             <div id="collapseOne" class="panel-collapse collapse">
               <div class="panel-body">
-							<b>How do I register with BookMyShow?</b><br>
-							Click on the 'Register' link on the homepage of bookmyshow.com. Enter your full name, Email id., contact number, password and click on 'Submit' and you are registered with us.<br><br>
+							<b>How do I register with BookMyMovie?</b><br>
+							Click on the 'Register' link on the homepage of bookmymovie.com. Enter your full name, Email id., contact number, password and click on 'Submit' and you are registered with us.<br><br>
 							<b>Is it necessary to register for booking tickets?</b><br>
 							Although registering is not a compulsion, we would suggest you to register on our website, since it would allow you to view your entire booking history and avail the exciting offers.<br><br>
 							<b>Why am I being asked for my Mobile number?</b><br>
@@ -54,8 +54,8 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse">
               <div class="panel-body">
-							<b>When does advance booking open on BookMyShow?</b><br>
-							Commencement of booking depends entirely on cinema planning and the release date of the movie. Whenever the cinema opens the show for advance booking, the show is automatically made available on BookMyShow.<br><br>
+							<b>When does advance booking open on BookMyMovie?</b><br>
+							Commencement of booking depends entirely on cinema planning and the release date of the movie. Whenever the cinema opens the show for advance booking, the show is automatically made available on BookMyMovie.<br><br>
 							<b>I booked tickets through the website but did not get the confirmation email / SMS.</b><br>
 							In case your confirmation details are lost, click on the 'Resend Confirmation' link on the website to resend the confirmation e-mail and SMS. Alternately, please call us on 022 6144 5050, 022 3989 5050 ext 1 for assistance.<br><br>
               </div>
@@ -106,7 +106,7 @@
               <div class="panel-body">
 							<b>Do i have to pay for the Coupons?</b><br>
 							Some Coupons are Free. We might charge for some Coupons. The Price, if any, will be clearly displayed while buying the Coupon.<br><br>
-							<b>Are Coupons available for All Events on BookMyShow?</b><br>
+							<b>Are Coupons available for All Events on BookMyMovie?</b><br>
 							No, Coupons are available only for Movie bookings.<br><br>
 							<b>How long is the Coupon valid?</b><br>
 							The Coupons are valid from the date of the Movie till days specified for the brand campaign. The Start date and Expiry date for the Coupon will be clearly displayed while picking the coupon. You won’t be able to avail the coupon before and after the coupon validity.<br>

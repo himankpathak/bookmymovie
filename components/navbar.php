@@ -24,10 +24,10 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a href="#"><span class="fa fa-question-circle" aria-hidden="true"></span>&nbsp;&nbsp;SUPPORT</a>
+              <a href="#"><span class="fa fa-question-circle" aria-hidden="true"></span>&nbsp;&nbsp;FAQs</a>
             </li>
             <li>
-              <a href="contact.php"><span class="fa fa-phone" aria-hidden="true"></span>&nbsp;&nbsp;CONTACT</a>
+              <a href="contact.php"><span class="fa fa-phone" aria-hidden="true"></span>&nbsp;&nbsp;CONTACT US</a>
             </li>
             ';
 

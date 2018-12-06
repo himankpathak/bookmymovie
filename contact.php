@@ -98,5 +98,7 @@
 	  </div>
 
 		<?php include 'components/footer.php';?>
+		<script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contactform.js"></script>
 	</body>
 </html>
